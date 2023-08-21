@@ -1,0 +1,15 @@
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\bin\Debug\net6.0\DIGNUM - Digital LED Numbers.exe
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\bin\Debug\net6.0\DIGNUM - Digital LED Numbers.deps.json
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\bin\Debug\net6.0\DIGNUM - Digital LED Numbers.runtimeconfig.json
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\bin\Debug\net6.0\DIGNUM - Digital LED Numbers.dll
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\bin\Debug\net6.0\DIGNUM - Digital LED Numbers.pdb
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.AssemblyInfo.cs
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.dll
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\refint\DIGNUM - Digital LED Numbers.dll
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.pdb
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\DIGNUM - Digital LED Numbers.genruntimeconfig.cache
+A:\Microsoft Visual Studio\Repos\DIGNUM - Digital LED Numbers\obj\Debug\net6.0\ref\DIGNUM - Digital LED Numbers.dll

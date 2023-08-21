@@ -1,0 +1,15 @@
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\bin\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.exe
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\bin\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.deps.json
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\bin\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.runtimeconfig.json
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\bin\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.dll
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\bin\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.pdb
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.AssemblyInfo.cs
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.dll
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\refint\Cwiczenie do egzaminu - Wzorki.dll
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.pdb
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\Cwiczenie do egzaminu - Wzorki.genruntimeconfig.cache
+A:\Microsoft Visual Studio\Repos\Cwiczenie do egzaminu - Wzorki\obj\Debug\net6.0\ref\Cwiczenie do egzaminu - Wzorki.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolos4", "Kolos4.csproj", "{754B28CC-2C52-4348-9526-0A5CA95D426A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{754B28CC-2C52-4348-9526-0A5CA95D426A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{754B28CC-2C52-4348-9526-0A5CA95D426A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{754B28CC-2C52-4348-9526-0A5CA95D426A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{754B28CC-2C52-4348-9526-0A5CA95D426A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BB81E16-EE6A-4DBD-A490-679BEAD93260}
+	EndGlobalSection
+EndGlobal

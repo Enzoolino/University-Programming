@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cwiczenie do egzaminu - Wzorki", "Cwiczenie do egzaminu - Wzorki.csproj", "{9726617F-0083-452C-84B2-D02D597961BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9726617F-0083-452C-84B2-D02D597961BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9726617F-0083-452C-84B2-D02D597961BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9726617F-0083-452C-84B2-D02D597961BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9726617F-0083-452C-84B2-D02D597961BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50B043CD-8A89-48D8-B698-6AEAF00E004F}
+	EndGlobalSection
+EndGlobal
