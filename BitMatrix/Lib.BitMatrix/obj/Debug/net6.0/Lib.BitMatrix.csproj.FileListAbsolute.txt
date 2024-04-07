@@ -1,0 +1,30 @@
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.exe
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.deps.json
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.runtimeconfig.json
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.dll
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.pdb
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.csproj.AssemblyReference.cache
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.AssemblyInfoInputs.cache
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.AssemblyInfo.cs
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.csproj.CoreCompileInputs.cache
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.dll
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\refint\Lib.BitMatrix.dll
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.pdb
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.genruntimeconfig.cache
+C:\Users\krzys\source\repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\ref\Lib.BitMatrix.dll
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.exe
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.deps.json
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.runtimeconfig.json
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.dll
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\bin\Debug\net6.0\Lib.BitMatrix.pdb
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.csproj.AssemblyReference.cache
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.GeneratedMSBuildEditorConfig.editorconfig
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.AssemblyInfoInputs.cache
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.AssemblyInfo.cs
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.csproj.CoreCompileInputs.cache
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.dll
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\refint\Lib.BitMatrix.dll
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.pdb
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\Lib.BitMatrix.genruntimeconfig.cache
+A:\Microsoft Visual Studio\Repos\BitMatrix\Lib.BitMatrix\obj\Debug\net6.0\ref\Lib.BitMatrix.dll
